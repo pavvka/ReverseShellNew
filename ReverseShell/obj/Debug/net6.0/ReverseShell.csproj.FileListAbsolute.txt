@@ -1,0 +1,14 @@
+C:\Users\ygale\source\repos\ReverseShell\ReverseShell\bin\Debug\net6.0\ReverseShell.exe
+C:\Users\ygale\source\repos\ReverseShell\ReverseShell\bin\Debug\net6.0\ReverseShell.deps.json
+C:\Users\ygale\source\repos\ReverseShell\ReverseShell\bin\Debug\net6.0\ReverseShell.runtimeconfig.json
+C:\Users\ygale\source\repos\ReverseShell\ReverseShell\bin\Debug\net6.0\ReverseShell.dll
+C:\Users\ygale\source\repos\ReverseShell\ReverseShell\bin\Debug\net6.0\ReverseShell.pdb
+C:\Users\ygale\source\repos\ReverseShell\ReverseShell\obj\Debug\net6.0\ReverseShell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygale\source\repos\ReverseShell\ReverseShell\obj\Debug\net6.0\ReverseShell.AssemblyInfoInputs.cache
+C:\Users\ygale\source\repos\ReverseShell\ReverseShell\obj\Debug\net6.0\ReverseShell.AssemblyInfo.cs
+C:\Users\ygale\source\repos\ReverseShell\ReverseShell\obj\Debug\net6.0\ReverseShell.csproj.CoreCompileInputs.cache
+C:\Users\ygale\source\repos\ReverseShell\ReverseShell\obj\Debug\net6.0\ReverseShell.dll
+C:\Users\ygale\source\repos\ReverseShell\ReverseShell\obj\Debug\net6.0\refint\ReverseShell.dll
+C:\Users\ygale\source\repos\ReverseShell\ReverseShell\obj\Debug\net6.0\ReverseShell.pdb
+C:\Users\ygale\source\repos\ReverseShell\ReverseShell\obj\Debug\net6.0\ReverseShell.genruntimeconfig.cache
+C:\Users\ygale\source\repos\ReverseShell\ReverseShell\obj\Debug\net6.0\ref\ReverseShell.dll
